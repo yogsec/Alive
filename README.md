@@ -2,6 +2,8 @@
 
 Alive is a fast and concurrent **URL checker** that identifies live domains returning **HTTP 200 OK** status. It supports **single URLs and bulk lists**, bypasses **WAF protections** using random user agents, and offers **optional saving** of results. 🛡️
 
+![CyberSecurity Tool - Alive](https://github.com/yogsec/Alive/blob/main/Screenshot%20from%202025-03-12%2021-17-03.png?raw=true)
+
 ## Features ✨
 - 🔄 **Concurrent requests** for faster processing
 - 🌐 **Supports single URLs and bulk lists**
