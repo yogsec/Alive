@@ -43,8 +43,8 @@ python alive.py -h
 GitHub - https://github.com/yogsec
 Donate ❤️‍🩹 - https://buymeacoffee.com/yogsec
 
-https://example.com ✅
-https://alive.com ✅
+https://example.com
+https://alive.com
 ```
 
 ---
